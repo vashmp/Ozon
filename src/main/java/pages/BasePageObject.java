@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import steps.BaseSteps;
 
 import java.util.List;
-
+//vasya
 /**
  * Created by Nikita Blokhin.
  */
